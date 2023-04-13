@@ -12,14 +12,6 @@ This guide is written for both beginner and advanced Vimmers. It starts out with
 
 Follow [@learnvim](https://twitter.com/learnvim) for updates, Vim tips, etc.
 
-## Support This Project
-
-This guide is and will always be free.
-
-If you want to financially support this project, you can [purchase this guide on Leanpub](https://leanpub.com/learnvim).
-
-<a href="https://leanpub.com/learnvim"><img src="images/learn-vim-cover.png" width="100"></a>
-
 ## Table Of Contents
 
 ### Prologue
@@ -63,14 +55,3 @@ If you want to financially support this project, you can [purchase this guide on
 - [Ch 27 - Vimscript Variable Scopes](./ch27_vimscript_variable_scopes.md)
 - [Ch 28 - Vimscript Functions](./ch28_vimscript_functions.md)
 - [Ch 29 - Plugin Example: Writing a Titlecase Plugin](./ch29_plugin_example_writing-a-titlecase-plugin.md)
-
-## Translations
-- [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
-- [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`)
-
-## License & Copyright
-The materials here are all © 2020-2021 Igor Irianto.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
